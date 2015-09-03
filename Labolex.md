@@ -1,10 +1,8 @@
-
-
-Des ateliers juridiques sur des thématiques particulières, faisant se rencontrer des « experts » de la loi et des « experts »… du reste. Le but n’est pas tant de vulgariser des connaissances juridiques que de s’en servir pour mettre en perspective des problèmes réels, voire pour aider à formuler des éléments de solutions. Chaque atelier est l’occasion de produire de la connaissance de manière collaborative, qui a ensuite vocation à être diffusée, enrichie grâce au site Sharelex pour produire un bien commun.
-
 ## Qu'est ce qu'un Labolex ?
 
 Un LaboLex est un groupe d'experts du droit et d'experts... du reste, qui se rencontrent autour d'un thème juridique qui les intéressent.
+
+Le but n’est pas tant de vulgariser des connaissances juridiques que de s’en servir pour mettre en perspective des problèmes réels, voire pour aider à formuler des éléments de solutions. Chaque atelier est l’occasion de produire de la connaissance de manière collaborative, qui a ensuite vocation à être diffusée, enrichie grâce au site Sharelex pour produire un bien commun.
 
 Notre dispositif est conçu pour permettre aux communautés de créer et développer les LaboLex librement, localement et de façon indépendante, en utilisant la méthodologie et les ressources de ShareLex.
 
