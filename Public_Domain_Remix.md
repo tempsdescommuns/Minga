@@ -30,8 +30,8 @@ Avant de soumettre une création, assurez-vous d’avoir bien pris connaissance 
 
 Les éléments suivants sont à joindre dans un dossier compressé en .zip :
 
-    Un fichier multimédia : .jpeg, .gif, .png, .pdf, .mp4 et .ogg (pour les vidéos les deux formats sont obligatoires en 1080p)
-    Une note d’intention : .txt ou .doc de 30 lignes maximum décrivant votre création (elle doit comprendre un titre ainsi qu’un concept de 140 caractères max.)
+* Un fichier multimédia : .jpeg, .gif, .png, .pdf, .mp4 et .ogg (pour les vidéos les deux formats sont obligatoires en 1080p)
+* Une note d’intention : .txt ou .doc de 30 lignes maximum décrivant votre création (elle doit comprendre un titre ainsi qu’un concept de 140 caractères max.)
 
 Attention, toutes les candidatures incomplètes ne seront pas traitées.
 
