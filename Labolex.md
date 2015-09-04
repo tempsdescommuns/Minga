@@ -1,3 +1,5 @@
+![Labolex à Barcelone. CC-BY-SA Ouishare.]({{site.baseurl}}/https://c1.staticflickr.com/9/8106/8571450837_28c67c00ce_b.jpg)
+
 ## Qu'est ce qu'un Labolex ?
 
 Un LaboLex est un groupe d'experts du droit et d'experts... du reste, qui se rencontrent autour d'un thème juridique qui les intéressent.
