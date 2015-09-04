@@ -1,3 +1,10 @@
+Un booksprint est un format innovant basé sur le Code Sprints, mais en mettant l'accent sur la production de documents au lieu de code. Un sprint rassemble un groupe d'auteurs, d'éditeurs, d'artiste, de formateur connaisseur sur le sujet du livre pour aller du synopsis au livre publié en cinq jours.
+
+Écrire un livre en une semaine est un exploit incroyable et exigeant. Il a été rendu possible par la plate-forme Floss Manuals d'édition collaborative. Cette plate-forme permet une collaboration fluide avec des auteurs locaux et distants. Un niveau technique faible est demandé et un générateur d'impression automatisée produit un beau livre au format PDF. Envoyer ce fichier à un service d'impression à la demande et vous avez un processus rapide pour produire des livres à la même vitesse que le logiciel évolue. 
+
+
+![Collaborateurs au travail lors d'un booksprint. GFDL AnneGoldenberg](https://fr.wikipedia.org/wiki/Booksprint#/media/File:BooksprintOLPC.png)
+
 Le concept de **booksprint** est inspiré de celui de code sprint qui réfère à une session de travail intensif qui rassemble des programmeurs autour d'un objectif défini, dans un temps limité, souvent dirigés par un coach ou un facilitateur. Cette pratique est notamment devenue populaire pour l'avancement de projets libres. Les codes sprint sont eux-mêmes apparentés aux pratiques d'Extreme programming et aux méthodes agiles visant à affiner les méthodes de travail en collaboration.
 
 ## Origine
@@ -20,15 +27,6 @@ Si les booksprints concentrent une petite équipe qui se rencontre physiquement,
 
 ![Équipe de collaborateurs réfléchissant sur l'élaboration d'un manuel.
 ](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BooksprintCollabFutureTOCBuilding.jpg/120px-BooksprintCollabFutureTOCBuilding.jpg)
-
-
-
-
-    <div style="margin:30px auto;">[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/93/BooksprintOLPC.png/120px-BooksprintOLPC.png)](/wiki/Fichier:BooksprintOLPC.png)</div>
-
-
-
-    Collaborateurs au travail lors d'un booksprint.
 
 
 
@@ -58,5 +56,6 @@ Si les booksprints concentrent une petite équipe qui se rencontre physiquement,
 4.  <span class="noprint renvois_vers_le_texte">[↑](#cite_ref-4)</span> <span class="reference-text"><span class="ouvrage">[« <cite style="font-style: normal">appel à participation pour un booksprint, FSF</cite> »](http://www.fsf.org/blogs/community/book-sprint) <small style="line-height:1em;">(consulté le <span class="nowrap">8 février 2011</span>)</small></span></span>
 5.  <span class="noprint renvois_vers_le_texte">[↑](#cite_ref-5)</span> <span class="reference-text"><span class="ouvrage">[« <cite style="font-style: normal">Adam Hyde présentant Floss Manuals à Wikimania</cite> »](http://wikimania2007.wikimedia.org/wiki/Proceedings:AH1%20Abstract) <small style="line-height:1em;">(consulté le <span class="nowrap">8 février 2011</span>)</small></span></span>
 
-## Source
+## Sources
 * https://fr.wikipedia.org/wiki/Booksprint
+* http://fr.flossmanuals.net/faq-floss-manuals-francophone/quest-ce-quun-book-sprint/
