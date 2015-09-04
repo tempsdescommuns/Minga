@@ -23,23 +23,25 @@ Allez, on vous laisse découvrir le toolkit sans plus tarder !
 
 Êtes-vous sûr d’avoir bien compris où vous mettez les pieds ? Pour mieux comprendre ce qu’est Disco Soupe, voici en introduction quelques clés de lecture.
 
-[Disco Soupe, c’est quoi ?](http://discosoupe.org/lemouvement/) [Petite histoire du mouvement en France](http://discosoupe.org/notre-histoire/)[](http://discosoupe.org/notre-histoire/) [La charte et les valeurs](http://discosoupe.org/la-charte-et-les-valeurs/)
+* [Disco Soupe, c’est quoi ?](http://discosoupe.org/lemouvement/) 
+* [Petite histoire du mouvement en France](http://discosoupe.org/notre-histoire/)
+* [La charte et les valeurs](http://discosoupe.org/la-charte-et-les-valeurs/)
 
 **2\. Première étape : vue d’ensemble sur l’organisation**
 
 Ça y est, vous êtes décidément partant ? Bravo ! Avant de vous donner 1001 astuces pour faire de votre Disco Soupe un succès, cliquez sur les 2 rubriques ci-dessous pour avoir une vue globale des principaux ingrédients et des grandes étapes de l’événement.
 
-[Les 7 ingrédients essentiels d’une Disco Soupe](http://discosoupe.org/toolkit/Vueglobale/#Vueglobale)  
- [Le planning type d’une Disco Soupe](http://discosoupe.org/toolkit/Vueglobale/#Planning)
+* [Les 7 ingrédients essentiels d’une Disco Soupe](http://discosoupe.org/toolkit/Vueglobale/#Vueglobale)  
+* [Le planning type d’une Disco Soupe](http://discosoupe.org/toolkit/Vueglobale/#Planning)
 
 **3\. Focus sur les points clés de la Disco Soupe**
 
 Chaussez maintenant vos lunettes, nous allons maintenant vous plonger dans la marmite. Voici des informations plu complètes et concrètes sur les 4 points clés d’un événement Disco Soupe. Vous pourrez ainsi vous projeter de façon plus concrète dans l’organisation. Une lecture obligatoire avant de vous jeter à l’eau![:)](http://discosoupe.org/wp-includes/images/smilies/icon_smile.gif)
 
-[Les rebuts](//discosoupe.org/toolkit/rebuts/)  
- [La logistique](//discosoupe.org/toolkit/logistique/)  
- [Hygiène et Sécurité](//discosoupe.org/toolkit/hygiene/)  
- [La sensibilisation sur le gaspillage alimentaire](http://discosoupe.org/toolkit/sensibilisation)
+* [Les rebuts](//discosoupe.org/toolkit/rebuts/)  
+* [La logistique](//discosoupe.org/toolkit/logistique/)  
+* [Hygiène et Sécurité](//discosoupe.org/toolkit/hygiene/)  
+* [La sensibilisation sur le gaspillage alimentaire](http://discosoupe.org/toolkit/sensibilisation)
 
 * * *
 
