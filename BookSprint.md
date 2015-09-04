@@ -2,9 +2,6 @@ Un booksprint est un format innovant basé sur le Code Sprints, mais en mettant 
 
 Écrire un livre en une semaine est un exploit incroyable et exigeant. Il a été rendu possible par la plate-forme Floss Manuals d'édition collaborative. Cette plate-forme permet une collaboration fluide avec des auteurs locaux et distants. Un niveau technique faible est demandé et un générateur d'impression automatisée produit un beau livre au format PDF. Envoyer ce fichier à un service d'impression à la demande et vous avez un processus rapide pour produire des livres à la même vitesse que le logiciel évolue. 
 
-
-![Collaborateurs au travail lors d'un booksprint. GFDL AnneGoldenberg](https://upload.wikimedia.org/wikipedia/commons/9/93/BooksprintOLPC.png)
-
 ![Collaborateurs au travail lors d'un booksprint. GFDL AnneGoldenberg](https://upload.wikimedia.org/wikipedia/commons/9/93/BooksprintOLPC.png)
 
 Le concept de **booksprint** est inspiré de celui de code sprint qui réfère à une session de travail intensif qui rassemble des programmeurs autour d'un objectif défini, dans un temps limité, souvent dirigés par un coach ou un facilitateur. Cette pratique est notamment devenue populaire pour l'avancement de projets libres. Les codes sprint sont eux-mêmes apparentés aux pratiques d'Extreme programming et aux méthodes agiles visant à affiner les méthodes de travail en collaboration.
@@ -12,6 +9,8 @@ Le concept de **booksprint** est inspiré de celui de code sprint qui réfère �
 ## Origine
 
 C'est Tomas Krag<sup id="cite_ref-1" class="reference">[<span class="cite_crochet">[</span>1<span class="cite_crochet">]</span>](#cite_note-1)</sup> qui a forgé le concept de booksprint en inventant une méthode permettant de réduire le temps de production d'un livre à quelques mois. En 2005, alors qu'il voyait la nécessité de produire un livre sur les réseaux sans fil pour le monde en développement, il choisit de repenser le travail d'écriture des manuels de documentation et invente à cet effet une méthode de collaboration intensive. Il s'agissait alors de réduire la production d'un livre à un cycle de production de trois à quatre mois. Le livre alors publié selon cette méthode (_Wireless Networking in the Developing World_) fut bien produit en quelques mois et a été depuis traduit en six langues<sup id="cite_ref-2" class="reference">[<span class="cite_crochet">[</span>2<span class="cite_crochet">]</span>](#cite_note-2)</sup>.
+
+![Équipe de collaborateurs réfléchissant sur l'élaboration d'un manuel.](https://upload.wikimedia.org/wikipedia/commons/5/5f/BooksprintCollabFutureTOCBuilding.jpg)
 
 ## Usage du booksprint par Floss Manuals
 
@@ -25,22 +24,8 @@ FLOSS Manuals propose depuis 2006 une fondation et une plateforme wiki qui ont p
 
 Si les booksprints concentrent une petite équipe qui se rencontre physiquement, des contributeurs en ligne viennent aussi participer à la rédaction du manuel. Un ou une facilitatrice s'occupe de rassembler les participants et les amène à travailler ensemble pour rédiger le manuel en l'espace de cinq jours, en proposant des pistes de structuration et d'organisation du travail dans le temps imparti. La table des matières est créée collaborativement au début de la rencontre. Ils rédigent ensuite les différents chapitres du livre sur une plateforme wiki disponible en ligne. Les collaborateurs travaillent à partir de leur expérience d'utilisateur ou de formateurs, ainsi qu'à partir des manuels déjà existant dans d'autres langues, sous d'autres format et publiés sous licence libre.
 
-
-
-![Équipe de collaborateurs réfléchissant sur l'élaboration d'un manuel.
-](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BooksprintCollabFutureTOCBuilding.jpg/120px-BooksprintCollabFutureTOCBuilding.jpg)
-
-
-
-    <div style="margin:30px auto;">[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/FlossManuel_sur_OLPC.jpg/120px-FlossManuel_sur_OLPC.jpg)](/wiki/Fichier:FlossManuel_sur_OLPC.jpg)</div>
-
-
-
-    Manuel sur OLPC, produit suite à un booksprint.
-
-    </div>
-
-    </div>
+![Manuel sur OLPC, produit suite à un booksprint.](https://upload.wikimedia.org/wikipedia/commons/f/fc/FlossManuel_sur_OLPC.jpg
+)
 
 ## Liens externes
 *   [Booksprints.net](http://www.booksprints.net/)
