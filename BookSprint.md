@@ -3,7 +3,7 @@ Un booksprint est un format innovant basé sur le Code Sprints, mais en mettant 
 Écrire un livre en une semaine est un exploit incroyable et exigeant. Il a été rendu possible par la plate-forme Floss Manuals d'édition collaborative. Cette plate-forme permet une collaboration fluide avec des auteurs locaux et distants. Un niveau technique faible est demandé et un générateur d'impression automatisée produit un beau livre au format PDF. Envoyer ce fichier à un service d'impression à la demande et vous avez un processus rapide pour produire des livres à la même vitesse que le logiciel évolue. 
 
 
-![Collaborateurs au travail lors d'un booksprint. GFDL AnneGoldenberg](https://fr.wikipedia.org/wiki/Booksprint#/media/File:BooksprintOLPC.png)
+![Collaborateurs au travail lors d'un booksprint. GFDL AnneGoldenberg](https://upload.wikimedia.org/wikipedia/commons/9/93/BooksprintOLPC.png)
 
 Le concept de **booksprint** est inspiré de celui de code sprint qui réfère à une session de travail intensif qui rassemble des programmeurs autour d'un objectif défini, dans un temps limité, souvent dirigés par un coach ou un facilitateur. Cette pratique est notamment devenue populaire pour l'avancement de projets libres. Les codes sprint sont eux-mêmes apparentés aux pratiques d'Extreme programming et aux méthodes agiles visant à affiner les méthodes de travail en collaboration.
 
