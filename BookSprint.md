@@ -1,16 +1,16 @@
-Le concept de **booksprint** est inspiré de celui de [code sprint](/wiki/Hackathon "Hackathon") qui réfère à une session de travail intensif qui rassemble des programmeurs autour d'un objectif défini, dans un temps limité, souvent dirigés par un coach ou un facilitateur. Cette pratique est notamment devenue populaire pour l'avancement de projets libres. Les codes sprint sont eux-mêmes apparentés aux pratiques d'[Extreme programming](/wiki/Extreme_programming "Extreme programming") et aux [méthodes agiles](/wiki/M%C3%A9thode_agile "Méthode agile") visant à affiner les méthodes de travail en collaboration.
+Le concept de **booksprint** est inspiré de celui de code sprint qui réfère à une session de travail intensif qui rassemble des programmeurs autour d'un objectif défini, dans un temps limité, souvent dirigés par un coach ou un facilitateur. Cette pratique est notamment devenue populaire pour l'avancement de projets libres. Les codes sprint sont eux-mêmes apparentés aux pratiques d'Extreme programming et aux méthodes agiles visant à affiner les méthodes de travail en collaboration.
 
 ## Origine
 
-C'est Tomas Krag qui a forgé le concept de booksprint en inventant une méthode permettant de réduire le temps de production d'un livre à quelques mois. En 2005, alors qu'il voyait la nécessité de produire un livre sur les réseaux sans fil pour le monde en développement, il choisit de repenser le travail d'écriture des manuels de documentation et invente à cet effet une méthode de collaboration intensive. Il s'agissait alors de réduire la production d'un livre à un cycle de production de trois à quatre mois. Le livre alors publié selon cette méthode (_Wireless Networking in the Developing World_) fut bien produit en quelques mois et a été depuis traduit en six langues
+C'est Tomas Krag<sup id="cite_ref-1" class="reference">[<span class="cite_crochet">[</span>1<span class="cite_crochet">]</span>](#cite_note-1)</sup> qui a forgé le concept de booksprint en inventant une méthode permettant de réduire le temps de production d'un livre à quelques mois. En 2005, alors qu'il voyait la nécessité de produire un livre sur les réseaux sans fil pour le monde en développement, il choisit de repenser le travail d'écriture des manuels de documentation et invente à cet effet une méthode de collaboration intensive. Il s'agissait alors de réduire la production d'un livre à un cycle de production de trois à quatre mois. Le livre alors publié selon cette méthode (_Wireless Networking in the Developing World_) fut bien produit en quelques mois et a été depuis traduit en six langues<sup id="cite_ref-2" class="reference">[<span class="cite_crochet">[</span>2<span class="cite_crochet">]</span>](#cite_note-2)</sup>.
 
 ## Usage du booksprint par Floss Manuals
 
-La méthode du booksprint a inspiré la création de la plateforme [FLOSS Manuals](/wiki/FLOSS_Manuals "FLOSS Manuals") suite à une rencontre entre Tomas Krag et Adam Hyde, artiste multimédia impliqué dans le logiciel libre et intéressé à produire des documentations de qualité. Sur la base d'un quiproquo Adam Hyde comprend que le booksprint consiste à écrire un livre en une semaine.
+La méthode du booksprint a inspiré la création de la plateforme FLOSS Manuals suite à une rencontre entre Tomas Krag et Adam Hyde, artiste multimédia impliqué dans le logiciel libre et intéressé à produire des documentations de qualité. Sur la base d'un quiproquo Adam Hyde comprend que le booksprint consiste à écrire un livre en une semaine.
 
-Adam Hyde travaille alors avec Tomas Krag vers l'affinement de cette méthode (qualifiée d'_extreme booksprint_, en référence à l'[Extreme programming](/wiki/Extreme_programming "Extreme programming") et à l'intensité extrême du concept. Après plusieurs tests et ajustements, Adam Hyde formalise une méthode de booksprint qui permet la production d'un manuel en une semaine<sup id="cite_ref-3" class="reference">[<span class="cite_crochet">[</span>3<span class="cite_crochet">]</span>](#cite_note-3)</sup>. Parce qu'il s'agit d'abord principalement de livres de documentation de logiciels libres, ceux-ci sont produits et diffusés pour la plupart sur la plateforme [FLOSS Manuals](/wiki/FLOSS_Manuals "FLOSS Manuals"), mais d'autres types d'ouvrages sont aussi produits selon cette méthode.
+Adam Hyde travaille alors avec Tomas Krag vers l'affinement de cette méthode (qualifiée d'_extreme booksprint_, en référence à l'Extreme programming et à l'intensité extrême du concept. Après plusieurs tests et ajustements, Adam Hyde formalise une méthode de booksprint qui permet la production d'un manuel en une semaine<sup id="cite_ref-3" class="reference">[<span class="cite_crochet">[</span>3<span class="cite_crochet">]</span>](#cite_note-3)</sup>. Parce qu'il s'agit d'abord principalement de livres de documentation de logiciels libres, ceux-ci sont produits et diffusés pour la plupart sur la plateforme FLOSS Manuals, mais d'autres types d'ouvrages sont aussi produits selon cette méthode.
 
-[FLOSS Manuals](/wiki/FLOSS_Manuals "FLOSS Manuals") propose depuis 2006 une fondation et une plateforme wiki qui ont permis la production de plus d'[une vingtaine de livres](/w/index.php?title=Ed:FLOSS_Manuals&action=edit&redlink=1 "Ed:FLOSS Manuals (page inexistante)") de documentation en cinq langues. La méthode est supportée par la Free Software Foundation<sup id="cite_ref-4" class="reference">[<span class="cite_crochet">[</span>4<span class="cite_crochet">]</span>](#cite_note-4)</sup> et a également été présentée à Wikimania en 2007<sup id="cite_ref-5" class="reference">[<span class="cite_crochet">[</span>5<span class="cite_crochet">]</span>](#cite_note-5)</sup>.
+FLOSS Manuals propose depuis 2006 une fondation et une plateforme wiki qui ont permis la production de plus d'une vingtaine de livres de documentation en cinq langues. La méthode est supportée par la Free Software Foundation<sup id="cite_ref-4" class="reference">[<span class="cite_crochet">[</span>4<span class="cite_crochet">]</span>](#cite_note-4)</sup> et a également été présentée à Wikimania en 2007<sup id="cite_ref-5" class="reference">[<span class="cite_crochet">[</span>5<span class="cite_crochet">]</span>](#cite_note-5)</sup>.
 
 ## Fonctionnement
 
@@ -18,11 +18,9 @@ Si les booksprints concentrent une petite équipe qui se rencontre physiquement,
 
 
 
-![](//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BooksprintCollabFutureTOCBuilding.jpg/120px-BooksprintCollabFutureTOCBuilding.jpg)](/wiki/Fichier:BooksprintCollabFutureTOCBuilding.jpg)</div>
+![Équipe de collaborateurs réfléchissant sur l'élaboration d'un manuel.
+](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BooksprintCollabFutureTOCBuilding.jpg/120px-BooksprintCollabFutureTOCBuilding.jpg)
 
-    </
-
-    Équipe de collaborateurs réfléchissant sur l'élaboration d'un manuel.
 
 
 
