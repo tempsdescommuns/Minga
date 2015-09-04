@@ -1,4 +1,4 @@
-[![Traducthon - Ubuntu Party Paris - mai 2010]([![Traducthon - Ubuntu Party Paris - mai 2010](http://framablog.org/public/_img/framasoft/.traducthon-1_ubuntu-party_mai-2010-3_s.jpg "Traducthon - Ubuntu Party Paris - mai 2010")](http://framablog.org/public/_img/framasoft/traducthon-1_ubuntu-party_mai-2010-3.jpg "Traducthon - Ubuntu Party Paris - mai 2010")_Votre mission, si toutefois vous l’acceptez…_
+![Traducthon - Ubuntu Party Paris - mai 2010](http://framablog.org/public/_img/framasoft/.traducthon-1_ubuntu-party_mai-2010-3_s.jpg "Traducthon - Ubuntu Party Paris - mai 2010")
 
 Le **« Traducthon »**, mais qu’est-ce donc que ce néologisme barbare que l’on vient d’inventer  ?
 
