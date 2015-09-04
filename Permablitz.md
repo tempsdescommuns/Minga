@@ -8,7 +8,7 @@ Enfin un aspect important des permablitz est la réciprocité, si un jour vous �
 
 ## Vidéo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IagFEwJJ0JY" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/3ofD9ziz4-4" frameborder="0" allowfullscreen></iframe>
 
 ## Recette
 
